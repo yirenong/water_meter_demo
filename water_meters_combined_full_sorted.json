@@ -1,0 +1,2546 @@
+{
+  "Block A": {
+    "ADM": {
+      "Level 1": {
+        "A-1-ADM-L1-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L1-WM",
+            "block": "A",
+            "level": "L1",
+            "location": "",
+            "serial_no": "12000298/E11S007077",
+            "meter_size_in": 1.5,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L1-WM.Volume_1",
+              "object_id": "0.3000930",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000930"
+            }
+          ]
+        }
+      },
+      "Level 2": {
+        "A-1-ADM-L2-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L2-WM",
+            "block": "A",
+            "level": "L2",
+            "location": "",
+            "serial_no": "11002183/F11S003692",
+            "meter_size_in": 2.0,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L2-WM.Volume_1",
+              "object_id": "0.3000938",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000938"
+            }
+          ]
+        }
+      },
+      "Level 3": {
+        "A-1-ADM-L3-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L3-WM",
+            "block": "A",
+            "level": "L3",
+            "location": "",
+            "serial_no": "12000238/E11S007062",
+            "meter_size_in": 1.5,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L3-WM.Volume_1",
+              "object_id": "0.3000944",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000944"
+            }
+          ]
+        }
+      },
+      "Level 4": {
+        "A-1-ADM-L4-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L4-WM",
+            "block": "A",
+            "level": "L4",
+            "location": "",
+            "serial_no": "11002180/F11S003689",
+            "meter_size_in": 2.0,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L4-WM.Volume_1",
+              "object_id": "0.3000936",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000936"
+            }
+          ]
+        }
+      },
+      "Level 5": {
+        "A-1-ADM-L5-WM-1": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L5-WM-1",
+            "block": "A",
+            "level": "L5",
+            "location": "",
+            "serial_no": "11002069/E11S001297",
+            "meter_size_in": 1.5,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L5-WM-1.Volume_1",
+              "object_id": "0.3000942",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000942"
+            }
+          ]
+        },
+        "A-1-ADM-L5-WM-2": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L5-WM-2",
+            "block": "A",
+            "level": "L5",
+            "location": "",
+            "serial_no": "12000231/A12S014645",
+            "meter_size_in": 0.5,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L5-WM-2.Volume_1",
+              "object_id": "0.3000940",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000940"
+            }
+          ]
+        }
+      },
+      "Level 6": {
+        "A-1-ADM-L6-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L6-WM",
+            "block": "A",
+            "level": "L6",
+            "location": "",
+            "serial_no": "11002042/F11S001297",
+            "meter_size_in": 2.0,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L6-WM.Volume_1",
+              "object_id": "0.3000928",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000928"
+            }
+          ]
+        }
+      },
+      "Level 7": {
+        "A-1-ADM-L7-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L7-WM",
+            "block": "A",
+            "level": "L7",
+            "location": "",
+            "serial_no": "11002059/F11S001295",
+            "meter_size_in": 2.0,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L7-WM.Volume_1",
+              "object_id": "0.3000932",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000932"
+            }
+          ]
+        }
+      },
+      "Level 8": {
+        "A-1-ADM-L8-WM": {
+          "meter_info": {
+            "meter_tag": "A-1-ADM-L8-WM",
+            "block": "A",
+            "level": "L8",
+            "location": "",
+            "serial_no": "11002068/E11S007071",
+            "meter_size_in": 0.5,
+            "remarks": "Admin",
+            "place": "ADM",
+            "section": "1"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-1-ADMIN/M-Bus.L8-WM.Volume_1",
+              "object_id": "0.3000934",
+              "device_id": "631",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/631/objects/0.3000934"
+            }
+          ]
+        }
+      }
+    },
+    "AUD": {
+      "Level 1": {
+        "A-2-AUD-L1-WM-1": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L1-WM-1",
+            "block": "A",
+            "level": "L1",
+            "location": "",
+            "serial_no": "11002151/F11S002667",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L1-WM-1.Volume_1",
+              "object_id": "0.3000918",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000918"
+            }
+          ]
+        },
+        "A-2-AUD-L1-WM-2": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L1-WM-2",
+            "block": "A",
+            "level": "L1",
+            "location": "",
+            "serial_no": "11002178/F11S003687",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L1-WM-2.Volume_1",
+              "object_id": "0.3000919",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000919"
+            }
+          ]
+        }
+      },
+      "Level 2": {
+        "A-2-AUD-L2-WM": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L2-WM",
+            "block": "A",
+            "level": "L2",
+            "location": "",
+            "serial_no": "11002175/F11S003684",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L2-WM.Volume_1",
+              "object_id": "0.3000914",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000914"
+            }
+          ]
+        }
+      },
+      "Level 3": {
+        "A-2-AUD-L3-WM": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L3-WM",
+            "block": "A",
+            "level": "L3",
+            "location": "",
+            "serial_no": "11002182/F11S003691",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L3-WM.Volume_1",
+              "object_id": "0.3000920",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000920"
+            }
+          ]
+        }
+      },
+      "Level 4": {
+        "A-2-AUD-L4-WM": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L4-WM",
+            "block": "A",
+            "level": "L4",
+            "location": "",
+            "serial_no": "11002176/F11S003685",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L4-WM.Volume_1",
+              "object_id": "0.3000921",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000921"
+            }
+          ]
+        }
+      },
+      "Level 5": {
+        "A-2-AUD-L5-WM": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L5-WM",
+            "block": "A",
+            "level": "L5",
+            "location": "",
+            "serial_no": "12000296/E11S007075",
+            "meter_size_in": 1.5,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L5-WM.Volume_1",
+              "object_id": "0.3000922",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000922"
+            }
+          ]
+        }
+      },
+      "Level 6": {
+        "A-2-AUD-L6-WM": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L6-WM",
+            "block": "A",
+            "level": "L6",
+            "location": "",
+            "serial_no": "11002150/F11S002666",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L6-WM.Volume_1",
+              "object_id": "0.3000923",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000923"
+            }
+          ]
+        }
+      },
+      "Level 7": {
+        "A-2-AUD-L7-WM": {
+          "meter_info": {
+            "meter_tag": "A-2-AUD-L7-WM",
+            "block": "A",
+            "level": "L7",
+            "location": "",
+            "serial_no": "11002181/F11S003690",
+            "meter_size_in": 2.0,
+            "remarks": "Audi",
+            "place": "AUD",
+            "section": "2"
+          },
+          "points": [
+            {
+              "object_name": "NIE-A-2-AUDI/M-Bus.L7-WM.Volume_1",
+              "object_id": "0.3000924",
+              "device_id": "632",
+              "href": "http://localhost:47800/api/v1/bacnet/devices/632/objects/0.3000924"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Block B": {
+    "Level 1": {
+      "B-L1-WM-1": {
+        "meter_info": {
+          "meter_tag": "B-L1-WM-1",
+          "block": "B",
+          "level": "L1",
+          "location": "",
+          "serial_no": "12000304/E12S000416",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L1-WM-1.Volume_1",
+            "object_id": "0.3000049",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000049"
+          }
+        ]
+      },
+      "B-L1-WM-2": {
+        "meter_info": {
+          "meter_tag": "B-L1-WM-2",
+          "block": "B",
+          "level": "L1",
+          "location": "",
+          "serial_no": "12000395/C11S016337",
+          "meter_size_in": 1.0,
+          "remarks": "Irrigation meter"
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L1-WM-2.Volume_1",
+            "object_id": "0.3000050",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000050"
+          }
+        ]
+      }
+    },
+    "Level 2": {
+      "B-L2-WM": {
+        "meter_info": {
+          "meter_tag": "B-L2-WM",
+          "block": "B",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000292/E11S007067",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L2-WM.Volume_1",
+            "object_id": "0.3000048",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000048"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "B-L3-WM": {
+        "meter_info": {
+          "meter_tag": "B-L3-WM",
+          "block": "B",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000176/A11S721673",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L3-WM.Volume_1",
+            "object_id": "0.3000046",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000046"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "B-L4-WM": {
+        "meter_info": {
+          "meter_tag": "B-L4-WM",
+          "block": "B",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000240/E11S007064",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L4-WM.Volume_1",
+            "object_id": "0.3000047",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000047"
+          }
+        ]
+      }
+    },
+    "Level 5": {
+      "B-L5-WM": {
+        "meter_info": {
+          "meter_tag": "B-L5-WM",
+          "block": "B",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000173/A11S721670",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L5-WM.Volume_1",
+            "object_id": "0.3000045",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000045"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "B-L6-WM": {
+        "meter_info": {
+          "meter_tag": "B-L6-WM",
+          "block": "B",
+          "level": "L6",
+          "location": "",
+          "serial_no": "11002147/F11S002663",
+          "meter_size_in": 2.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L6-WM.Volume_1",
+            "object_id": "0.3000043",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000043"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "B-L7-WM": {
+        "meter_info": {
+          "meter_tag": "B-L7-WM",
+          "block": "B",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002064/C11S003985",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-B-1/M-Bus.L7-WM.Volume_1",
+            "object_id": "0.3000044",
+            "device_id": "528",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/528/objects/0.3000044"
+          }
+        ]
+      }
+    }
+  },
+  "Block C": {
+    "Level 1": {
+      "C-L1-WM-1": {
+        "meter_info": {
+          "meter_tag": "C-L1-WM-1",
+          "block": "C",
+          "level": "L1",
+          "location": "",
+          "serial_no": "11002070/F11S003680",
+          "meter_size_in": 2.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L1-WM-1.Volume_1",
+            "object_id": "0.3000044",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000044"
+          },
+          {
+            "object_name": "NIE-C-1/M-Bus.L1-WM-1.Volume_2",
+            "object_id": "0.3000058",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000058"
+          }
+        ]
+      },
+      "C-L1-WM-2": {
+        "meter_info": {
+          "meter_tag": "C-L1-WM-2",
+          "block": "C",
+          "level": "L1",
+          "location": "",
+          "serial_no": "12000390/C11S016332A",
+          "meter_size_in": 1.0,
+          "remarks": "Irrigation meter"
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L1-WM-2.Volume_1",
+            "object_id": "0.3000045",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000045"
+          }
+        ]
+      }
+    },
+    "Level 2": {
+      "C-L2-WM-1": {
+        "meter_info": {
+          "meter_tag": "C-L2-WM-1",
+          "block": "C",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000307/E12S000419",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L2-WM-1.Volume_1",
+            "object_id": "0.3000063",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000063"
+          }
+        ]
+      },
+      "C-L2-WM-2": {
+        "meter_info": {
+          "meter_tag": "C-L2-WM-2",
+          "block": "C",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000323/E12S000435",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L2-WM-2.Volume_1",
+            "object_id": "0.3000065",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000065"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "C-L3-WM": {
+        "meter_info": {
+          "meter_tag": "C-L3-WM",
+          "block": "C",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000230/A12S014644",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L3-WM.Volume_1",
+            "object_id": "0.3000040",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000040"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "C-L4-WM-1": {
+        "meter_info": {
+          "meter_tag": "C-L4-WM-1",
+          "block": "C",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000317/E12S000429",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L4-WM-1.Volume_1",
+            "object_id": "0.3000042",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000042"
+          }
+        ]
+      },
+      "C-L4-WM-2": {
+        "meter_info": {
+          "meter_tag": "C-L4-WM-2",
+          "block": "C",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000302/E12S000414",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L4-WM-2.Volume_1",
+            "object_id": "0.3000043",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000043"
+          }
+        ]
+      }
+    },
+    "Level 5": {
+      "C-L5-WM": {
+        "meter_info": {
+          "meter_tag": "C-L5-WM",
+          "block": "C",
+          "level": "L5",
+          "location": "",
+          "serial_no": "10021129/A11S455447",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L5-WM.Volume_1",
+            "object_id": "0.3000038",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000038"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "C-L6-WM": {
+        "meter_info": {
+          "meter_tag": "C-L6-WM",
+          "block": "C",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000310/E12S000422",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L6-WM.Volume_1",
+            "object_id": "0.3000041",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000041"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "C-L7-WM": {
+        "meter_info": {
+          "meter_tag": "C-L7-WM",
+          "block": "C",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002063/C11S003984",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-C-1/M-Bus.L7-WM.Volume_1",
+            "object_id": "0.3000039",
+            "device_id": "539",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/539/objects/0.3000039"
+          }
+        ]
+      }
+    }
+  },
+  "Block D": {
+    "Level 1": {
+      "D-L1-WM-1": {
+        "meter_info": {
+          "meter_tag": "D-L1-WM-1",
+          "block": "D",
+          "level": "L1",
+          "location": "",
+          "serial_no": "11002148/F11S002664",
+          "meter_size_in": 2.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L1-WM-1.Volume_1",
+            "object_id": "0.3000043",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000043"
+          }
+        ]
+      },
+      "D-L1-WM-2": {
+        "meter_info": {
+          "meter_tag": "D-L1-WM-2",
+          "block": "D",
+          "level": "L1",
+          "location": "1",
+          "serial_no": "11002065/C11S010326",
+          "meter_size_in": 1.0,
+          "remarks": "Irrigation meter"
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L1-WM-2.Volume_1",
+            "object_id": "0.3000042",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000042"
+          }
+        ]
+      }
+    },
+    "Level 2": {
+      "D-L2-WM-1": {
+        "meter_info": {
+          "meter_tag": "D-L2-WM-1",
+          "block": "D",
+          "level": "L2",
+          "location": "",
+          "serial_no": "11002067/E11S007070",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L2-WM-1.Volume_1",
+            "object_id": "0.3000048",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000048"
+          }
+        ]
+      },
+      "D-L2-WM-2": {
+        "meter_info": {
+          "meter_tag": "D-L2-WM-2",
+          "block": "D",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000313/E12S000425",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L2-WM-2.Volume_1",
+            "object_id": "0.3000047",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000047"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "D-L3-WM": {
+        "meter_info": {
+          "meter_tag": "D-L3-WM",
+          "block": "D",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000229/A12S014643",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L3-WM.Volume_1",
+            "object_id": "0.3000045",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000045"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "D-L4-WM": {
+        "meter_info": {
+          "meter_tag": "D-L4-WM",
+          "block": "D",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000311/E12S000423",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L4-WM.Volume_1",
+            "object_id": "0.3000046",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000046"
+          }
+        ]
+      }
+    },
+    "Level 5": {
+      "D-L5-WM": {
+        "meter_info": {
+          "meter_tag": "D-L5-WM",
+          "block": "D",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000171/A11S721668",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L5-WM.Volume_1",
+            "object_id": "0.3000044",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000044"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "D-L6-WM": {
+        "meter_info": {
+          "meter_tag": "D-L6-WM",
+          "block": "D",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000325/E12S000437",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L6-WM.Volume_1",
+            "object_id": "0.3000049",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000049"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "D-L7-WM": {
+        "meter_info": {
+          "meter_tag": "D-L7-WM",
+          "block": "D",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002062/C11S003983",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-D-1/M-Bus.L7-WM.Volume_1",
+            "object_id": "0.3000041",
+            "device_id": "549",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/549/objects/0.3000041"
+          }
+        ]
+      }
+    }
+  },
+  "Block E": {
+    "Level 1": {
+      "E-L1-WM-1": {
+        "meter_info": {
+          "meter_tag": "E-L1-WM-1",
+          "block": "E",
+          "level": "L1",
+          "location": "",
+          "serial_no": "11002056/A11S160921",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L1-WM-1.Volume_1",
+            "object_id": "0.3000044",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000044"
+          }
+        ]
+      },
+      "E-L1-WM-2": {
+        "meter_info": {
+          "meter_tag": "E-L1-WM-2",
+          "block": "E",
+          "level": "L1",
+          "location": "1",
+          "serial_no": "11002057/C11S003957",
+          "meter_size_in": 1.0,
+          "remarks": "Irrigation meter"
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L1-WM-2.Volume_1",
+            "object_id": "0.3000045",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000045"
+          }
+        ]
+      }
+    },
+    "Level 2": {
+      "E-L2-WM": {
+        "meter_info": {
+          "meter_tag": "E-L2-WM",
+          "block": "E",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000297/E11S007076",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": []
+      }
+    },
+    "Level 3": {
+      "E-L3-WM": {
+        "meter_info": {
+          "meter_tag": "E-L3-WM",
+          "block": "E",
+          "level": "L3",
+          "location": "",
+          "serial_no": "11099218/A11S455450",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L3-WM.Volume_1",
+            "object_id": "0.3000047",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000047"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "E-L4-WM": {
+        "meter_info": {
+          "meter_tag": "E-L4-WM",
+          "block": "E",
+          "level": "L4",
+          "location": "",
+          "serial_no": "120000326/E12S000438",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L4-WM.Volume_1",
+            "object_id": "0.3000050",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000050"
+          }
+        ]
+      }
+    },
+    "Level 5": {
+      "E-L5-WM": {
+        "meter_info": {
+          "meter_tag": "E-L5-WM",
+          "block": "E",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000172/A11S721669",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L5-WM.Volume_1",
+            "object_id": "0.3000048",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000048"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "E-L6-WM": {
+        "meter_info": {
+          "meter_tag": "E-L6-WM",
+          "block": "E",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000319/E12S000431",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L6-WM.Volume_1",
+            "object_id": "0.3000049",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000049"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "E-L7-WM": {
+        "meter_info": {
+          "meter_tag": "E-L7-WM",
+          "block": "E",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002061/C11S003982",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-E-1/M-Bus.L7-WM.Volume_1",
+            "object_id": "0.3000046",
+            "device_id": "558",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/558/objects/0.3000046"
+          }
+        ]
+      }
+    }
+  },
+  "Block F": {
+    "Level 2": {
+      "F-L2-WM": {
+        "meter_info": {
+          "meter_tag": "F-L2-WM",
+          "block": "F",
+          "level": "L2",
+          "location": "",
+          "serial_no": "23008996/I23MG045281",
+          "meter_size_in": 2.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-F-1/M-Bus.L2-WM.Volume_1",
+            "object_id": "0.3000039",
+            "device_id": "566",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/566/objects/0.3000039"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "F-L3-WM-1": {
+        "meter_info": {
+          "meter_tag": "F-L3-WM-1",
+          "block": "F",
+          "level": "L3",
+          "location": "",
+          "serial_no": "11002174/F11S003683",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-F-1/M-Bus.L3-WM-1.Volume_1",
+            "object_id": "0.3000041",
+            "device_id": "566",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/566/objects/0.3000041"
+          }
+        ]
+      },
+      "F-L3-WM-2": {
+        "meter_info": {
+          "meter_tag": "F-L3-WM-2",
+          "block": "F",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000174/A11S721671",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-F-1/M-Bus.L3-WM-2.Volume_1",
+            "object_id": "0.3000043",
+            "device_id": "566",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/566/objects/0.3000043"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "F-L4-WM-1": {
+        "meter_info": {
+          "meter_tag": "F-L4-WM-1",
+          "block": "F",
+          "level": "L4",
+          "location": "",
+          "serial_no": "11002149/F11S002665",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-F-1/M-Bus.L4-WM-1.Volume_1",
+            "object_id": "0.3000045",
+            "device_id": "566",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/566/objects/0.3000045"
+          }
+        ]
+      },
+      "F-L4-WM-2": {
+        "meter_info": {
+          "meter_tag": "F-L4-WM-2",
+          "block": "F",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000300/E12S000412",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-F-1/M-Bus.L4-WM-2.Volume_1",
+            "object_id": "0.3000048",
+            "device_id": "566",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/566/objects/0.3000048"
+          }
+        ]
+      }
+    }
+  },
+  "Block G": {
+    "Level 2": {
+      "G-L2-WM-1": {
+        "meter_info": {
+          "meter_tag": "G-L2-WM-1",
+          "block": "G",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000175/A11S721672",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L2-WM-1.Volume_1",
+            "object_id": "0.3000055",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000055"
+          }
+        ]
+      },
+      "G-L2-WM-2": {
+        "meter_info": {
+          "meter_tag": "G-L2-WM-2",
+          "block": "G",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000308/E12S000420",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L2-WM-2.Volume_1",
+            "object_id": "0.3000054",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000054"
+          }
+        ]
+      },
+      "G-L2-WM-3": {
+        "meter_info": {
+          "meter_tag": "G-L2-WM-3",
+          "block": "G",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000178/A11S721675",
+          "meter_size_in": 1.0,
+          "remarks": "Staircase-17"
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L2-WM-3.Volume_1",
+            "object_id": "0.3000057",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000057"
+          }
+        ]
+      },
+      "G-L2-WM-4": {
+        "meter_info": {
+          "meter_tag": "G-L2-WM-4",
+          "block": "G",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000175/A11S721672",
+          "meter_size_in": 0.5,
+          "remarks": "Staircase-18"
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L2-WM-4.Volume_1",
+            "object_id": "0.3000058",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000058"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "G-L3-WM-1": {
+        "meter_info": {
+          "meter_tag": "G-L3-WM-1",
+          "block": "G",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000178/A11S721675",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L3-WM-1.Volume_1",
+            "object_id": "0.3000052",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000052"
+          }
+        ]
+      },
+      "G-L3-WM-2": {
+        "meter_info": {
+          "meter_tag": "G-L3-WM-2",
+          "block": "G",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000321/E12S000433",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L3-WM-2.Volume_1",
+            "object_id": "0.3000056",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000056"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "G-L4-WM": {
+        "meter_info": {
+          "meter_tag": "G-L4-WM",
+          "block": "G",
+          "level": "L4",
+          "location": "",
+          "serial_no": "11002144/F11S001299",
+          "meter_size_in": 2.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-G-1/M-Bus.L4-WM.Volume_1",
+            "object_id": "0.3000050",
+            "device_id": "574",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/574/objects/0.3000050"
+          }
+        ]
+      }
+    }
+  },
+  "Block H": {
+    "Level 1": {
+      "H-L1-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L1-WM-1",
+          "block": "H",
+          "level": "L1",
+          "location": "",
+          "serial_no": "11002072/F11S003682",
+          "meter_size_in": 2.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L1-WM-1.Volume_1",
+            "object_id": "0.3000071",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000071"
+          }
+        ]
+      },
+      "H-L1-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L1-WM-2",
+          "block": "H",
+          "level": "L1",
+          "location": "",
+          "serial_no": "12000239/E11S007063",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L1-WM-2.Volume_1",
+            "object_id": "0.3000072",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000072"
+          }
+        ]
+      },
+      "H-L1-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L1-WM-3",
+          "block": "H",
+          "level": "L1",
+          "location": "",
+          "serial_no": "23009052/I23BC104396",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L1-WM-3.Volume_1",
+            "object_id": "0.3000073",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000073"
+          }
+        ]
+      },
+      "H-L1-WM-4": {
+        "meter_info": {
+          "meter_tag": "H-L1-WM-4",
+          "block": "H",
+          "level": "L1",
+          "location": "",
+          "serial_no": "12000397/C11S016339",
+          "meter_size_in": 1.0,
+          "remarks": "Irrigation Meter"
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L1-WM-4.Volume_1",
+            "object_id": "0.3000074",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000074"
+          }
+        ]
+      }
+    },
+    "Level 2": {
+      "H-L2-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L2-WM-1",
+          "block": "H",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000215/A12S014629",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L2-WM-1.Volume_1",
+            "object_id": "0.3000075",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000075"
+          }
+        ]
+      },
+      "H-L2-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L2-WM-2",
+          "block": "H",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000216/A12S014630",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L2-WM-2.Volume_1",
+            "object_id": "0.3000076",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000076"
+          }
+        ]
+      },
+      "H-L2-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L2-WM-3",
+          "block": "H",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000295/E11S007074",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L2-WM-3.Volume_1",
+            "object_id": "0.3000077",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000077"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "H-L3-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L3-WM-1",
+          "block": "H",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000217/A12S014631",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L3-WM-1.Volume_1",
+            "object_id": "0.3000078",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000078"
+          }
+        ]
+      },
+      "H-L3-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L3-WM-2",
+          "block": "H",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000218/A12S014632",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L3-WM-2.Volume_1",
+            "object_id": "0.3000079",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000079"
+          }
+        ]
+      },
+      "H-L3-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L3-WM-3",
+          "block": "H",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000294/E11S007069",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L3-WM-3.Volume_1",
+            "object_id": "0.3000080",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000080"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "H-L4-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L4-WM-1",
+          "block": "H",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000301/E12S000434",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L4-WM-1.Volume_1",
+            "object_id": "0.3000081",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000081"
+          }
+        ]
+      },
+      "H-L4-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L4-WM-2",
+          "block": "H",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000212/A12S014626",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L4-WM-2.Volume_1",
+            "object_id": "0.3000082",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000082"
+          }
+        ]
+      },
+      "H-L4-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L4-WM-3",
+          "block": "H",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000213/A12S014627",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L4-WM-3.Volume_1",
+            "object_id": "0.3000083",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000083"
+          }
+        ]
+      }
+    },
+    "Level 5": {
+      "H-L5-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L5-WM-1",
+          "block": "H",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000179/A12S014623",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L5-WM-1.Volume_1",
+            "object_id": "0.3000084",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000084"
+          }
+        ]
+      },
+      "H-L5-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L5-WM-2",
+          "block": "H",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000235/A12S014649",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L5-WM-2.Volume_1",
+            "object_id": "0.3000085",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000085"
+          }
+        ]
+      },
+      "H-L5-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L5-WM-3",
+          "block": "H",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000322/E11S007068A",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L5-WM-3.Volume_1",
+            "object_id": "0.3000086",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000086"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "H-L6-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L6-WM-1",
+          "block": "H",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000233/A12S014647",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L6-WM-1.Volume_1",
+            "object_id": "0.3000087",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000087"
+          }
+        ]
+      },
+      "H-L6-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L6-WM-2",
+          "block": "H",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000293/E11S007068",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L6-WM-2.Volume_1",
+            "object_id": "0.3000088",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000088"
+          }
+        ]
+      },
+      "H-L6-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L6-WM-3",
+          "block": "H",
+          "level": "L6",
+          "location": "",
+          "serial_no": "23009045/I23BC104393",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L6-WM-3.Volume_1",
+            "object_id": "0.3000089",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000089"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "H-L7-WM-1": {
+        "meter_info": {
+          "meter_tag": "H-L7-WM-1",
+          "block": "H",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002048/A11S517277",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L7-WM-1.Volume_1",
+            "object_id": "0.3000090",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000090"
+          }
+        ]
+      },
+      "H-L7-WM-2": {
+        "meter_info": {
+          "meter_tag": "H-L7-WM-2",
+          "block": "H",
+          "level": "L7",
+          "location": "",
+          "serial_no": "23009046/I23BC104394",
+          "meter_size_in": 1.0,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L7-WM-2.Volume_1",
+            "object_id": "0.3000091",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000091"
+          }
+        ]
+      },
+      "H-L7-WM-3": {
+        "meter_info": {
+          "meter_tag": "H-L7-WM-3",
+          "block": "H",
+          "level": "L7",
+          "location": "",
+          "serial_no": "12000291/E11S007066",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-H-1/M-Bus.L7-WM-3.Volume_1",
+            "object_id": "0.3000092",
+            "device_id": "609",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/609/objects/0.3000092"
+          }
+        ]
+      }
+    }
+  },
+  "Block J": {
+    "Level 1": {
+      "J-L1-WM": {
+        "meter_info": {
+          "meter_tag": "J-L1-WM",
+          "block": "J",
+          "level": "L1",
+          "location": "",
+          "serial_no": "12000396/C11S016338",
+          "meter_size_in": 1.0,
+          "remarks": "Irrigation Meter"
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L1-WM.Volume_1",
+            "object_id": "0.3000148",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000148"
+          }
+        ]
+      }
+    },
+    "Level 2": {
+      "J-L2-WM-1": {
+        "meter_info": {
+          "meter_tag": "J-L2-WM-1",
+          "block": "J",
+          "level": "L2",
+          "location": "",
+          "serial_no": "11002044/A11S517273",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L2-WM-1.Volume_1",
+            "object_id": "0.3000140",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000140"
+          }
+        ]
+      },
+      "J-L2-WM-2": {
+        "meter_info": {
+          "meter_tag": "J-L2-WM-2",
+          "block": "J",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000234/A12S012648",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L2-WM-2.Volume_1",
+            "object_id": "0.3000128",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000128"
+          }
+        ]
+      },
+      "J-L2-WM-3": {
+        "meter_info": {
+          "meter_tag": "J-L2-WM-3",
+          "block": "J",
+          "level": "L2",
+          "location": "",
+          "serial_no": "23008994/A23S-300081",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L2-WM-3.Volume_1",
+            "object_id": "0.3000130",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000130"
+          }
+        ]
+      },
+      "J-L2-WM-4": {
+        "meter_info": {
+          "meter_tag": "J-L2-WM-4",
+          "block": "J",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000316/E12S000428",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L2-WM-4.Volume_1",
+            "object_id": "0.3000142",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000142"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "J-L3-WM": {
+        "meter_info": {
+          "meter_tag": "J-L3-WM",
+          "block": "J",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000396/C11S016338",
+          "meter_size_in": "",
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L3-WM.Volume_1",
+            "object_id": "0.3000112",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000112"
+          }
+        ]
+      },
+      "J-L3-WM-2": {
+        "meter_info": {
+          "meter_tag": "J-L3-WM-2",
+          "block": "J",
+          "level": "L3",
+          "location": "",
+          "serial_no": "11002043/A11S517272",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L3-WM-2.Volume_1",
+            "object_id": "0.3000126",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000126"
+          }
+        ]
+      },
+      "J-L3-WM-3": {
+        "meter_info": {
+          "meter_tag": "J-L3-WM-3",
+          "block": "J",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000305/E12S000417",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L3-WM-3.Volume_1",
+            "object_id": "0.3000132",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000132"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "J-L4-WM-1": {
+        "meter_info": {
+          "meter_tag": "J-L4-WM-1",
+          "block": "J",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000232/A12S014646",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L4-WM-1.Volume_1",
+            "object_id": "0.3000146",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000146"
+          }
+        ]
+      },
+      "J-L4-WM-2": {
+        "meter_info": {
+          "meter_tag": "J-L4-WM-2",
+          "block": "J",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000324/E12S000436",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L4-WM-2.Volume_1",
+            "object_id": "0.3000144",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000144"
+          }
+        ]
+      },
+      "J-L4-WM-3": {
+        "meter_info": {
+          "meter_tag": "J-L4-WM-3",
+          "block": "J",
+          "level": "L4",
+          "location": "",
+          "serial_no": "11002043/A11S51727",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": []
+      }
+    },
+    "Level 5": {
+      "J-L5-WM-1": {
+        "meter_info": {
+          "meter_tag": "J-L5-WM-1",
+          "block": "J",
+          "level": "L5",
+          "location": "",
+          "serial_no": "11002047/A11S517276",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L5-WM-1.Volume_1",
+            "object_id": "0.3000114",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000114"
+          }
+        ]
+      },
+      "J-L5-WM-2": {
+        "meter_info": {
+          "meter_tag": "J-L5-WM-2",
+          "block": "J",
+          "level": "L5",
+          "location": "",
+          "serial_no": "11002049/A11S517278",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L5-WM-2.Volume_1",
+            "object_id": "0.3000116",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000116"
+          }
+        ]
+      },
+      "J-L5-WM-3": {
+        "meter_info": {
+          "meter_tag": "J-L5-WM-3",
+          "block": "J",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000309/E12S000421",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L5-WM-3.Volume_1",
+            "object_id": "0.3000134",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000134"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "J-L6-WM-1": {
+        "meter_info": {
+          "meter_tag": "J-L6-WM-1",
+          "block": "J",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000180/A12S014624",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L6-WM-1.Volume_1",
+            "object_id": "0.3000122",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000122"
+          }
+        ]
+      },
+      "J-L6-WM-2": {
+        "meter_info": {
+          "meter_tag": "J-L6-WM-2",
+          "block": "J",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000312/E12S000424",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L6-WM-2.Volume_1",
+            "object_id": "0.3000124",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000124"
+          }
+        ]
+      },
+      "J-L6-WM-3": {
+        "meter_info": {
+          "meter_tag": "J-L6-WM-3",
+          "block": "J",
+          "level": "L6",
+          "location": "",
+          "serial_no": "11002060/A11S517281",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L6-WM-3.Volume_1",
+            "object_id": "0.3000138",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000138"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "J-L7-WM-1": {
+        "meter_info": {
+          "meter_tag": "J-L7-WM-1",
+          "block": "J",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002050/A11S517279",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L7-WM-1.Volume_1",
+            "object_id": "0.3000120",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000120"
+          }
+        ]
+      },
+      "J-L7-WM-2": {
+        "meter_info": {
+          "meter_tag": "J-L7-WM-2",
+          "block": "J",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11002051/A11S517280",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L7-WM-2.Volume_1",
+            "object_id": "0.3000118",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000118"
+          }
+        ]
+      },
+      "J-L7-WM-3": {
+        "meter_info": {
+          "meter_tag": "J-L7-WM-3",
+          "block": "J",
+          "level": "L7",
+          "location": "",
+          "serial_no": "12000303/E12S000415",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-J-1/M-Bus.L7-WM-3.Volume_1",
+            "object_id": "0.3000136",
+            "device_id": "598",
+            "href": "http://localhost:47800/api/v1/bacnet/devices/598/objects/0.3000136"
+          }
+        ]
+      }
+    }
+  },
+  "Block K": {
+    "Level 2": {
+      "K-L2-WM-1": {
+        "meter_info": {
+          "meter_tag": "K-L2-WM-1",
+          "block": "K",
+          "level": "L2",
+          "location": "",
+          "serial_no": "23009051/I23BC104395",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L2-WM-1.Volume_1",
+            "object_id": "0.3000062",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L2-WM-1_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L2-WM-2": {
+        "meter_info": {
+          "meter_tag": "K-L2-WM-2",
+          "block": "K",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000228/A12S014642",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L2-WM-2.Volume_1",
+            "object_id": "0.3000063",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L2-WM-2_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L2-WM-3": {
+        "meter_info": {
+          "meter_tag": "K-L2-WM-3",
+          "block": "K",
+          "level": "L2",
+          "location": "",
+          "serial_no": "12000299/E12S000411",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L2-WM-3.Volume_1",
+            "object_id": "0.3000064",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L2-WM-3_Volume_1.PresentValue"
+          }
+        ]
+      }
+    },
+    "Level 3": {
+      "K-L3-WM-1": {
+        "meter_info": {
+          "meter_tag": "K-L3-WM-1",
+          "block": "K",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000226/A12S014640",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L3-WM-1.Volume_1",
+            "object_id": "0.3000065",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L3-WM-1_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L3-WM-2": {
+        "meter_info": {
+          "meter_tag": "K-L3-WM-2",
+          "block": "K",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000227/A12S014641",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L3-WM-2.Volume_1",
+            "object_id": "0.3000066",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L3-WM-2_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L3-WM-3": {
+        "meter_info": {
+          "meter_tag": "K-L3-WM-3",
+          "block": "K",
+          "level": "L3",
+          "location": "",
+          "serial_no": "12000306/E12S000418",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L3-WM-3.Volume_1",
+            "object_id": "0.3000067",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L3-WM-3_Volume_1.PresentValue"
+          }
+        ]
+      }
+    },
+    "Level 4": {
+      "K-L4-WM-1": {
+        "meter_info": {
+          "meter_tag": "K-L4-WM-1",
+          "block": "K",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000224/A12S014638",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L4-WM-1.Volume_1",
+            "object_id": "0.3000068",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L4-WM-1_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L4-WM-2": {
+        "meter_info": {
+          "meter_tag": "K-L4-WM-2",
+          "block": "K",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000225/A12S014639",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L4-WM-2.Volume_1",
+            "object_id": "0.3000069",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L4-WM-2_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L4-WM-3": {
+        "meter_info": {
+          "meter_tag": "K-L4-WM-3",
+          "block": "K",
+          "level": "L4",
+          "location": "",
+          "serial_no": "12000320/E12S000432",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L4-WM-3.Volume_1",
+            "object_id": "0.3000070",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L4-WM-3_Volume_1.PresentValue"
+          }
+        ]
+      }
+    },
+    "Level 5": {
+      "K-L5-WM-1": {
+        "meter_info": {
+          "meter_tag": "K-L5-WM-1",
+          "block": "K",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000222/A12S014636",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L5-WM-1.Volume_1",
+            "object_id": "0.3000096",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L5-WM-1_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L5-WM-2": {
+        "meter_info": {
+          "meter_tag": "K-L5-WM-2",
+          "block": "K",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000223/A12S014637",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L5-WM-2.Volume_1",
+            "object_id": "0.3000098",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L5-WM-2_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L5-WM-3": {
+        "meter_info": {
+          "meter_tag": "K-L5-WM-3",
+          "block": "K",
+          "level": "L5",
+          "location": "",
+          "serial_no": "12000318/E12S000430",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L5-WM-3.Volume_1",
+            "object_id": "0.3000100",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L5-WM-3_Volume_1.PresentValue"
+          }
+        ]
+      }
+    },
+    "Level 6": {
+      "K-L6-WM-1": {
+        "meter_info": {
+          "meter_tag": "K-L6-WM-1",
+          "block": "K",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000220/A12S014634",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L6-WM-1.Volume_1",
+            "object_id": "0.3000071",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L6-WM-1_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L6-WM-2": {
+        "meter_info": {
+          "meter_tag": "K-L6-WM-2",
+          "block": "K",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000221/A12S014635",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L6-WM-2.Volume_1",
+            "object_id": "0.3000072",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L6-WM-2_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L6-WM-3": {
+        "meter_info": {
+          "meter_tag": "K-L6-WM-3",
+          "block": "K",
+          "level": "L6",
+          "location": "",
+          "serial_no": "12000315/E12S000427",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L6-WM-3.Volume_1",
+            "object_id": "0.3000073",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L6-WM-3_Volume_1.PresentValue"
+          }
+        ]
+      }
+    },
+    "Level 7": {
+      "K-L7-WM-1": {
+        "meter_info": {
+          "meter_tag": "K-L7-WM-1",
+          "block": "K",
+          "level": "L7",
+          "location": "",
+          "serial_no": "11099219/A12S721666",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L7-WM-1.Volume_1",
+            "object_id": "0.3000074",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L7-WM-1_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L7-WM-2": {
+        "meter_info": {
+          "meter_tag": "K-L7-WM-2",
+          "block": "K",
+          "level": "L7",
+          "location": "",
+          "serial_no": "12000219/A12S014633",
+          "meter_size_in": 0.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L7-WM-2.Volume_1",
+            "object_id": "0.3000075",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L7-WM-2_Volume_1.PresentValue"
+          }
+        ]
+      },
+      "K-L7-WM-3": {
+        "meter_info": {
+          "meter_tag": "K-L7-WM-3",
+          "block": "K",
+          "level": "L7",
+          "location": "",
+          "serial_no": "12000314/E12S000426",
+          "meter_size_in": 1.5,
+          "remarks": ""
+        },
+        "points": [
+          {
+            "object_name": "NIE-K-1/M-Bus.L7-WM-3.Volume_1",
+            "object_id": "0.3000076",
+            "device_id": "608",
+            "href": "ns=2;s=Channel1.NIE-K-1.NIE-K-1/M-Bus_L7-WM-3_Volume_1.PresentValue"
+          }
+        ]
+      }
+    }
+  }
+}
